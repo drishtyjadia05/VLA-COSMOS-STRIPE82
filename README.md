@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project explores the dynamic radio sky by analyzing 3 GHz VLA observations from two major sky surveys — **COSMOS** and **STRIPE82**. The goal is to identify and characterize radio transients and variables such as **tidal disruption events (TDEs)**, **gamma-ray bursts (GRBs)**, and **neutron star mergers**. These events provide insight into relativistic outflows, compact objects, and extreme astrophysical environments.
+This project explores the dynamic radio sky by analyzing 3 GHz [VLA](https://public.nrao.edu/telescopes/vla/) observations from two major sky surveys — **COSMOS** and **STRIPE82**. The goal is to identify and characterize radio transients and variables such as **tidal disruption events (TDEs)**, **gamma-ray bursts (GRBs)**, and **neutron star mergers**. These events provide insight into relativistic outflows, compact objects, and extreme astrophysical environments.
 
 ---
 
