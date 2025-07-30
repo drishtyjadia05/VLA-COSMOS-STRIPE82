@@ -1,7 +1,7 @@
 # Study of Radio Transients using COSMOS and STRIPE82 Surveys
 
 **Author**: Drishty B. Jadia  
-**Degree Project**: Masters' Thesis, [IIT Kanpur](https://www.iitk.ac.in/) 
+**Degree Project**: Masters' Thesis, [IIT Kanpur](https://www.iitk.ac.in/)  
 **Supervisor**: Prof. [Kunal P. Mooley](https://sites.google.com/view/mooleylab/)  
 **Duration**: August 2024 – May 2025 *(Ongoing)*  
 
@@ -105,7 +105,7 @@ This project explores the dynamic radio sky by analyzing 3 GHz VLA observations 
 
 ## Contact
 
-> dbjadia052gmail.com 
+> dbjadia05@gmail.com 
 > [Website](https://drishtyjadia05.github.io)
 
 ---
