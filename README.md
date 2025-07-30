@@ -84,6 +84,8 @@ This project explores the dynamic radio sky by analyzing 3 GHz VLA observations 
 
 - [Project Report](./VLA_COSMOS_STRIPE82.pdf)
 - [DATA](https://data.nrao.edu/portal/)
+- [CASA](https://casa.nrao.edu/index_docs.shtml)
+- [VLASS Pipeline versions](https://science.nrao.edu/vlass/vlass-pipeline-versions)
 - [COSMOS Survey](https://cosmos.astro.caltech.edu/page/radio)
 - [STRIPE82 Surveys Portal](http://www.tauceti.caltech.edu/stripe82/)
 - [VLASS Pipeline for Calibration of STRIPE82 data](./hifv_compression.py)
@@ -104,6 +106,6 @@ This project explores the dynamic radio sky by analyzing 3 GHz VLA observations 
 ## Contact
 
 > dbjadia052gmail.com 
-> [Website](https://drishtyjadia05.github.io)  
+> [Website](https://drishtyjadia05.github.io)
 
 ---
